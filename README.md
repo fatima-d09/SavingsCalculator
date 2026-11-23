@@ -61,7 +61,7 @@ The program displays the simulated growth of the savings account over the specif
 # Author Information
 
 - Author: Fatima Dembele
-- NetID: 32107296
+- NetID: 
 - Email: fdembele@u.rochester.edu
 - Lab Number: 13
 - Lab Date: 09/14/2022
