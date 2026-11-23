@@ -1,6 +1,6 @@
 /*
 Fatima Dembele
-NetID = 32107296/fdembele@u.rochester.edu
+NetID = 
 Lab Number = 13
 Lab Date = 09/14/2022
 Lab Section = 13
